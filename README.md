@@ -14,4 +14,4 @@ The proposed Network shows an **AUC of 0.9708** on the first test image of the D
 
 **Install the libraries**. The libraries we will use are matplotlib.pyplot, numpy, os, matplotlib.image, keras, theano, sklearn, pandas, skipy.misc and pickle.
 
-**Run the code**. Follow the main_commented.ipynb.
+**Run the code**. Follow the Jupyter notebook main_commented.ipynb.
