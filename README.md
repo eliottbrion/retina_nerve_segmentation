@@ -10,6 +10,8 @@ The proposed Network shows an **AUC of 0.9708** on the first test image of the D
 
 **Download the dataset**. Go to http://www.isi.uu.nl/Research/Databases/DRIVE/download.php and follow the instructions to download the DRIVE folder. In this folder, take the "training" and "test" subfolders and put them in the empty "data" folder of this repository.
 
-**Download the libraries**. The libraries we will use are matplotlib.pyplot, numpy, os, matplotlib.image, keras, theano, sklearn, pandas, skipy.misc and pickle.
+**Install Jupyter**. Jupyter is automatically available if you install Anaconda (https://www.continuum.io/downloads).
 
-**Run the code**. Follow the main_commented.ipynb. 
+**Install the libraries**. The libraries we will use are matplotlib.pyplot, numpy, os, matplotlib.image, keras, theano, sklearn, pandas, skipy.misc and pickle.
+
+**Run the code**. Follow the main_commented.ipynb.
